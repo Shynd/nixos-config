@@ -7,10 +7,12 @@
       xkb.layout = "no";
     };
 
-    displayManager.autoLogin = {
-      enable = true;
-      user = "${username}";
-    };
+    # TODO
+    # displayManager.autoLogin = {
+    #   enable = true;
+    #   user = "${username}";
+    # };
+
     libinput = {
       enable = true;
     };

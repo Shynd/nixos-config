@@ -19,6 +19,7 @@
     ./services.nix
     ./steam.nix
     ./system.nix
-    ./flatpak.nix
+    # ./flatpak.nix # TODO (- To use Flatpak you must enable XDG Desktop Portals with xdg.portal.enable.)
+    ./user.nix
   ];
 }

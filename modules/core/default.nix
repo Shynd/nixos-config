@@ -15,5 +15,6 @@
     ./nh.nix
     ./pipewire.nix
     ./program.nix
+    ./security.nix
   ];
 }

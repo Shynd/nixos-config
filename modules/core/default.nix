@@ -18,5 +18,6 @@
     ./security.nix
     ./services.nix
     ./steam.nix
+    ./system.nix
   ];
 }

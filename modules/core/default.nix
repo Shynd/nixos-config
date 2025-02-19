@@ -11,5 +11,6 @@
     ./bootloader.nix
     ./xserver.nix
     ./network.nix
+    ./nh.nix
   ];
 }

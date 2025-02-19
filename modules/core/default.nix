@@ -9,8 +9,10 @@
 {
   imports = [
     ./bootloader.nix
+    #./hardware.nix # TODO
     ./xserver.nix
     ./network.nix
     ./nh.nix
+    ./pipewire.nix
   ];
 }

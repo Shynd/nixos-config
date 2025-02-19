@@ -19,5 +19,6 @@
     ./services.nix
     ./steam.nix
     ./system.nix
+    ./flatpak.nix
   ];
 }
